@@ -2,7 +2,7 @@
 
 Welcome to my page.
 
-I'm Niken, Actuary Intern at Multinational Insurance Company. Currently living in Jakarta, Indonesia <img src="https://cdn-icons-png.flaticon.com/512/6157/6157721.png" width="13">. Having just earned a degree in Actuarial Science, therefore I have extensive knowledge of statistics, probability, machine learning, and financial math. I have utmost interest for becoming software engineering since middle school, thanks to RevoU now I have a great opportunity to pursue my dream job through Full Stack Software Engineering Program.
+I'm Niken, Actuary Intern at Multinational Insurance Company. Currently living in Jakarta, Indonesia <img src="https://cdn-icons-png.flaticon.com/512/6157/6157721.png" width="13">. Having just earned a degree in Actuarial Science, therefore I have extensive knowledge of statistics, probability, machine learning, and financial math. I have utmost interest for becoming software engineering since middle school, thanks to RevoU now I have a great opportunity to pursue my dream job through RevoU's Full Stack Software Engineering Program.
 
 ### **Table of Contents**
 
