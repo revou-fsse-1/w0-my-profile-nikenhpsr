@@ -23,7 +23,7 @@ I'm Niken, Actuary Intern at Multinational Insurance Company. Currently living i
 ### **Projects and Publications**
 
 | Title | Coded In | More Details | Type |
-| :---                    | :---    | :---:        | :---|
+| :---                    | :---    | :---:        | :---:|
 | GPV Reserve of Endowment Policy with Monthly and Anually Valuation| Python | [Link](https://github.com/nikenhpsr/projects/blob/main/Python/GPV%20Reserve%20of%20Endowment%20Policy%20with%20Monthly%20and%20Anually%20Valuation/GPV_Reserve.ipynb)| Project |
 | Predicting Quantitative Sales Outcome on The Basis of Youtube Advertising Budget. | R/Rstudio | [Link](https://github.com/nikenhpsr/projects/blob/main/Rstudio/Econometrics/01.%20Simple%20Regression%20Analysis/Simple_Linear_Regression_Analysis.ipynb)| Project |
 | Predict Body Weight Based on Height, Head Circumference, Bust, Right Thigh Circumference, Right Arm Circumference, and Waist Circumference. | R/Rstudio | [Link](https://github.com/nikenhpsr/projects/blob/main/Rstudio/Econometrics/02.%20Multiple%20Regression%20Analysis/Multiple_Linear_Regression_Analysis_in_R.ipynb)| Project |
