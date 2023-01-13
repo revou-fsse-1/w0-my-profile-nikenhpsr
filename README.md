@@ -33,7 +33,7 @@ I'm Niken, Actuary Intern at Multinational Insurance Company. Currently living i
 
 ### **Favorite Websites**
 
-Here are several webs that inspire me the most:
+Here are several webs that inspired me the most:
 
 1. [Sarah Dayan Personal Web](https://www.sarahdayan.dev/)
     
